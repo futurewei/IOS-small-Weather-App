@@ -13,6 +13,7 @@
 		70E2EAE81DD4703C00F84B3B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70E2EAE71DD4703C00F84B3B /* Images.xcassets */; };
 		70E2EAEB1DD4703C00F84B3B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 70E2EAE91DD4703C00F84B3B /* LaunchScreen.xib */; };
 		70E2EAF71DD4703C00F84B3B /* what_s_the_weatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70E2EAF61DD4703C00F84B3B /* what_s_the_weatherTests.swift */; };
+		70E2EB011DD470C100F84B3B /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 70E2EB001DD470C100F84B3B /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		70E2EAF01DD4703C00F84B3B /* what's the weatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "what's the weatherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		70E2EAF51DD4703C00F84B3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		70E2EAF61DD4703C00F84B3B /* what_s_the_weatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = what_s_the_weatherTests.swift; sourceTree = "<group>"; };
+		70E2EB001DD470C100F84B3B /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				70E2EAE21DD4703C00F84B3B /* ViewController.swift */,
 				70E2EAE41DD4703C00F84B3B /* Main.storyboard */,
 				70E2EAE71DD4703C00F84B3B /* Images.xcassets */,
+				70E2EB001DD470C100F84B3B /* background.png */,
 				70E2EAE91DD4703C00F84B3B /* LaunchScreen.xib */,
 				70E2EADE1DD4703C00F84B3B /* Supporting Files */,
 			);
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				70E2EAE61DD4703C00F84B3B /* Main.storyboard in Resources */,
+				70E2EB011DD470C100F84B3B /* background.png in Resources */,
 				70E2EAEB1DD4703C00F84B3B /* LaunchScreen.xib in Resources */,
 				70E2EAE81DD4703C00F84B3B /* Images.xcassets in Resources */,
 			);
